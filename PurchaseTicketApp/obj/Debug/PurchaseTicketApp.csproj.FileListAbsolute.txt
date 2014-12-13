@@ -1,0 +1,9 @@
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe.config
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csprojResolveAssemblyReference.cache
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Form1.resources
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Properties.Resources.resources
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csproj.GenerateResource.Cache
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.pdb
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.exe
+c:\users\lab1\documents\visual studio 2013\Projects\CustomerAndTicketInfoApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.pdb

@@ -1,0 +1,9 @@
+J:\date 12.12.2014\NumberListing\NumberListing\bin\Debug\NumberListing.exe.config
+J:\date 12.12.2014\NumberListing\NumberListing\bin\Debug\NumberListing.exe
+J:\date 12.12.2014\NumberListing\NumberListing\bin\Debug\NumberListing.pdb
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.csprojResolveAssemblyReference.cache
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.Form1.resources
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.Properties.Resources.resources
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.csproj.GenerateResource.Cache
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.exe
+J:\date 12.12.2014\NumberListing\NumberListing\obj\Debug\NumberListing.pdb
